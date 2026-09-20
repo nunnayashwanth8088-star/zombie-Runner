@@ -1,0 +1,8 @@
+{
+  "name": "Remix Subway Runner: Zombie Cure 3D",
+  "description": "A 3D endless runner featuring dynamic zombie-to-human transformation mechanics, subway tracks, and intense survival gameplay.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
